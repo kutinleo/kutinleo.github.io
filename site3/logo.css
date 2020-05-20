@@ -10,5 +10,5 @@ nav ul {
   list-style: none;
 }
 nav li {
-  display: inline-block; /*один из способов разместить элементы в строку*/
+  display: inline-block;
 }
