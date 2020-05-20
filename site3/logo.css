@@ -2,11 +2,11 @@
   float: left;
 }
 nav {
-  float: right;
+  float: center;
 }
 nav ul {
-  margin: 20;
-  padding: 20;
+  margin: 0;
+  padding: 0;
   list-style: none;
 }
 nav li {
