@@ -5,8 +5,8 @@ nav {
   float: right;
 }
 nav ul {
-  margin: 0;
-  padding: 0;
+  margin: 20;
+  padding: 20;
   list-style: none;
 }
 nav li {
